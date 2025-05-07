@@ -1,1 +1,1 @@
-# -leran-SOLID-with-dominator
+# leran-SOLID-with-dominator

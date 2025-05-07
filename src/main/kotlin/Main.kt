@@ -1,5 +1,7 @@
 package org.example
+import org.example.models.Dominator
 
 fun main() {
-    println("Hello World!")
+    val dominator = Dominator()
+    dominator.fire()
 }
